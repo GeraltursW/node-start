@@ -1,0 +1,16 @@
+{
+  "name": "3-starter",
+  "version": "1.0.0",
+  "description": "11",
+  "main": "app.js",
+  "scripts": {
+    "start":"nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Wang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
