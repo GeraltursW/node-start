@@ -205,14 +205,6 @@
       "2022-01-16,10:00",
       "2022-12-12,10:00"
     ]
-  },
-  {
-    "id": 9,
-    "name": "new Tour Test",
-    "duration": 2,
-    "maxGroupSize": 3,
-    "difficulty": "medium",
-    "ratingsAverage": 4.7,
-    "ratingsQuantity": 28
   }
+
 ]
